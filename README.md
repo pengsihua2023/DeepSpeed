@@ -1,5 +1,12 @@
 [deepspeed入门教程](https://zhuanlan.zhihu.com/p/630734624)  
 
+[Getting Started](https://www.deepspeed.ai/getting-started/)  
+
+[DeepSpeed Configuration JSON](https://www.deepspeed.ai/docs/config-json/#zero-optimizations-for-fp16-training)  
+
+[使用deepspeed并行训练模型的简单入门例程](https://blog.csdn.net/diehualong/article/details/132968578)  
+
+
 [![License Apache 2.0](https://badgen.net/badge/license/apache2.0/blue)](https://github.com/Microsoft/DeepSpeed/blob/master/LICENSE)
 [![PyPI version](https://badge.fury.io/py/deepspeed.svg)](https://pypi.org/project/deepspeed/)
 [![Downloads](https://static.pepy.tech/badge/deepspeed)](https://pepy.tech/project/deepspeed)
