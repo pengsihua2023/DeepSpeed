@@ -10,7 +10,12 @@
 
 [Getting Started](https://www.deepspeed.ai/getting-started/)  
 
+### hostfile format
+```
+worker-1 slots=4
+worker-2 slots=4
 
+```
 This directory includes the source code for the website and documentation of DeepSpeed. The `code-docs/` directory is used to build [deepspeed.readthedocs.io](https://deepspeed.readthedocs.io/en/latest/).
 
 [deepspeed.ai](https://www.deepspeed.ai/) is the recommended way to read all DeepSpeed documentation. Directly viewing the Markdown files in this directory will not include images and other features.
