@@ -6,6 +6,10 @@
 
 [Hugging Face for DeepSpeed](https://huggingface.co/docs/transformers/main/main_classes/deepspeed)  
 
+[DeepSpeed使用指南(简略版)](https://blog.csdn.net/weixin_43301333/article/details/127237122)  
+
+[Getting Started](https://www.deepspeed.ai/getting-started/)  
+
 
 This directory includes the source code for the website and documentation of DeepSpeed. The `code-docs/` directory is used to build [deepspeed.readthedocs.io](https://deepspeed.readthedocs.io/en/latest/).
 
