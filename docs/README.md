@@ -1,4 +1,11 @@
 # DeepSpeed Documentation
+## 增加信息
+[DeepSpeed英文教程](https://deepspeed.readthedocs.io/en/latest/index.html#)  
+
+[参数说明：DeepSpeed Configuration JSON](https://www.deepspeed.ai/docs/config-json/#zero-optimizations-for-fp16-training)  
+
+[Hugging Face for DeepSpeed](https://huggingface.co/docs/transformers/main/main_classes/deepspeed)  
+
 
 This directory includes the source code for the website and documentation of DeepSpeed. The `code-docs/` directory is used to build [deepspeed.readthedocs.io](https://deepspeed.readthedocs.io/en/latest/).
 
